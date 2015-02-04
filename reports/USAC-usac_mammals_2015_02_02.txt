@@ -1,0 +1,112 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 10
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-04 ; Times: 1
+	Date: 2015-01-06 ; Times: 3
+	Date: 2015-01-07 ; Times: 1
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-13 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Conepatus semistriatus" ; Times: 2
+	Query: "conepatus semistriatus semistriatus" ; Times: 1
+	Query: "Phylloderma" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "Oryzomys couesi year >= 1990 year <= 2014" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 445 download events in this period)
+Total number of records downloaded: 752 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 515
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 18
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 6
+	Date: 2015-01-04 ; Times: 10
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-19 ; Times: 2
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-27 ; Times: 2
+	Date: 2015-01-28 ; Times: 2
+	Date: 2015-01-29 ; Times: 1
+	Date: 2015-01-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Pilosa" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: "cuniculus paca" ; Times: 1
+	Query: "canidae skull" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Dasyproctidae" ; Times: 1
+	Query: "Cuniculidae" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "mus musculus" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: "Atelidae" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "alouatta pigra" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 115
+Total number of records retrieved from searches: 1092
+Number of download events that retrieved data from the resource: 35
+Total number of records downloaded: 752
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 123
+Total number of records retrieved from searches: 1102
+Number of download events that retrieved data from the resource: 110
+Total number of records downloaded: 7635
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
