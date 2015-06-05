@@ -1,0 +1,93 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 217
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 7
+	Date: 2015-05-06 ; Times: 6
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 5
+	Date: 2015-05-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "type:specimen specificepithet:parva genus:cryptotis tissue:1" ; Times: 1
+	Query: "Bauerus dubiaquercus" ; Times: 2
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Myotis elegans" ; Times: 2
+	Query: "Enchisthenes hartii" ; Times: 5
+	Query: "specificepithet:goodwini genus:Cryptotis" ; Times: 4
+	Query: "county:"Guatemala"" ; Times: 1
+	Query: "yolnabaj" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: ""Orthogeomys hispidus"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 976 download events in this period)
+Total number of records downloaded: 5458 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1710
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "peromyscus aztecus" ; Times: 1
+	Query: "Oligoryzomys" ; Times: 1
+	Query: "uroderma bilobatum mappable:1" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Peromyscus levipes" ; Times: 1
+	Query: "peromyscus guatemalensis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 157
+Total number of records retrieved from searches: 1387
+Number of download events that retrieved data from the resource: 52
+Total number of records downloaded: 6701
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 165
+Total number of records retrieved from searches: 1397
+Number of download events that retrieved data from the resource: 127
+Total number of records downloaded: 13584
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
