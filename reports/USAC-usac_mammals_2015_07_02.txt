@@ -1,0 +1,103 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 149
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Guatemala ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-18 ; Times: 2
+	Date: 2015-06-19 ; Times: 3
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""diclidurus albus"" ; Times: 1
+	Query: "quetzaltenango" ; Times: 1
+	Query: "Thyroptera" ; Times: 1
+	Query: "EAR 1856" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "atitlan" ; Times: 1
+	Query: "mamiferos" ; Times: 1
+	Query: "Lampronycteris brachyotis" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1524 download events in this period)
+Total number of records downloaded: 5141 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4400
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Guatemala ; Times: 7
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 4
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-18 ; Times: 2
+	Date: 2015-06-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "quetzaltenango" ; Times: 1
+	Query: "chicabal" ; Times: 1
+	Query: "Thyroptera" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "solola" ; Times: 1
+	Query: "Totonicapan" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Lampronycteris brachyotis" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "atitlan" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 168
+Total number of records retrieved from searches: 1536
+Number of download events that retrieved data from the resource: 71
+Total number of records downloaded: 11842
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 176
+Total number of records retrieved from searches: 1546
+Number of download events that retrieved data from the resource: 146
+Total number of records downloaded: 18725
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
