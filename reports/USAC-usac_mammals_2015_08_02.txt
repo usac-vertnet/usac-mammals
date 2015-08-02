@@ -1,0 +1,94 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 265
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-03 ; Times: 4
+	Date: 2015-07-04 ; Times: 2
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-19 ; Times: 3
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 8
+	Date: 2015-07-29 ; Times: 6
+	Date: 2015-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:500" ; Times: 1
+	Query: "genus:Natalus year >= 1975 year <= 2015" ; Times: 2
+	Query: ""san marcos" genus:peromyscus" ; Times: 3
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "otonyctomys" ; Times: 1
+	Query: "type:specimen (otonyctomys)" ; Times: 5
+	Query: "habromys lophurus" ; Times: 2
+	Query: "Sturnira ludovici country:"Guatemala"" ; Times: 1
+	Query: "genus:Ateles year >= 1975 year <= 2015" ; Times: 2
+	Query: "genus:Tayassu year >= 1975 year <= 2015" ; Times: 1
+	Query: "reithrodontomys microdon country:"guatemala"" ; Times: 3
+	Query: "tylomys" ; Times: 2
+	Query: "genus:Alouatta AND (NOT CUML) year >= 1975 year <= 2015" ; Times: 3
+	Query: "Tayassuidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "genus:Ateles AND (NOT CUML) year >= 1975 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1084 download events in this period)
+Total number of records downloaded: 1758 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1697
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 4
+	Date: 2015-07-13 ; Times: 3
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: ""san marcos" genus:peromyscus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 197
+Total number of records retrieved from searches: 1801
+Number of download events that retrieved data from the resource: 82
+Total number of records downloaded: 13600
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 205
+Total number of records retrieved from searches: 1811
+Number of download events that retrieved data from the resource: 157
+Total number of records downloaded: 20483
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
