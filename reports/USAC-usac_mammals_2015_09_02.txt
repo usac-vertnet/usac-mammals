@@ -1,0 +1,126 @@
+Report for Institution Code USAC, Resource Mamíferos
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 550
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 8
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-12 ; Times: 2
+	Date: 2015-08-20 ; Times: 2
+	Date: 2015-08-24 ; Times: 8
+	Date: 2015-08-25 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals stateprovince:"Izabal" country:"Guatemala" year <= 2015" ; Times: 4
+	Query: "4380" ; Times: 1
+	Query: ""Micronycteris schmidtorum" mappable:1" ; Times: 1
+	Query: "tylomys type:specimen" ; Times: 2
+	Query: "abies" ; Times: 1
+	Query: ""Cuniculus paca" mappable:1" ; Times: 1
+	Query: "rio dulce mammals stateprovince:"Izabal" country:"Guatemala" year <= 2015" ; Times: 1
+	Query: "Sorex saussurei" ; Times: 1
+	Query: ""Conepatus semistriatus" mappable:1" ; Times: 2
+	Query: ""Mimon bennettii" mappable:1" ; Times: 1
+	Query: "Otonyctomys hatti" ; Times: 2
+	Query: ""Choeroniscus godmani" mappable:1" ; Times: 1
+	Query: "rio dulce izabal mammals country:"Guatemala" year <= 2015" ; Times: 1
+	Query: ""Lampronycteris brachyotis" mappable:1" ; Times: 1
+	Query: "rio dulce mammals country:"Guatemala" year <= 2015" ; Times: 1
+	Query: "Mazama temama" ; Times: 1
+	Query: ""Eptesicus andinus" mappable:1" ; Times: 1
+	Query: ""Micronycteris microtis" mappable:1" ; Times: 1
+	Query: "catalognumber:122" ; Times: 2
+	Query: ""Eptesicus brasiliensis" mappable:1" ; Times: 1
+	Query: "mammals los amates izabal" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1138 download events in this period)
+Total number of records downloaded: 594 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 392
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-19 ; Times: 2
+	Date: 2015-08-21 ; Times: 4
+	Date: 2015-08-24 ; Times: 14
+	Date: 2015-08-25 ; Times: 12
+	Date: 2015-08-26 ; Times: 8
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: ""Artibeus lituratus" mappable:1" ; Times: 3
+	Query: ""Anoura geoffroyi" mappable:1" ; Times: 2
+	Query: ""Nyctinomops laticaudatus" mappable:1" ; Times: 1
+	Query: ""Cuniculus paca" mappable:1" ; Times: 1
+	Query: ""Noctilio albiventris" mappable:1" ; Times: 1
+	Query: "didelphidae" ; Times: 2
+	Query: ""Myotis nigricans" mappable:1" ; Times: 1
+	Query: ""Potos flavus" mappable:1" ; Times: 1
+	Query: ""Lonchorhina aurita" mappable:1" ; Times: 1
+	Query: ""Noctilio leporinus" mappable:1" ; Times: 1
+	Query: ""Micronycteris schmidtorum" mappable:1" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: ""Molossus molossus" mappable:1" ; Times: 1
+	Query: ""Carollia perspicillata" mappable:1" ; Times: 3
+	Query: ""Peropteryx macrotis" mappable:1" ; Times: 1
+	Query: ""Conepatus semistriatus" mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: ""Choeroniscus godmani" mappable:1" ; Times: 1
+	Query: ""Philander opossum" mappable:1" ; Times: 1
+	Query: ""Eumops glaucinus" mappable:1" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: ""Molossus rufus" mappable:1" ; Times: 1
+	Query: ""Pteronotus gymnonotus" mappable:1" ; Times: 1
+	Query: ""Eptesicus brasiliensis" mappable:1" ; Times: 1
+	Query: ""Didelphis marsupialis" mappable:1" ; Times: 1
+	Query: ""Mimon bennettii" mappable:1" ; Times: 1
+	Query: ""Chiroderma villosum" mappable:1" ; Times: 1
+	Query: ""Eptesicus furinalis" mappable:1" ; Times: 1
+	Query: ""Micronycteris microtis" mappable:1" ; Times: 1
+	Query: ""Odocoileus virginianus" mappable:1" ; Times: 1
+	Query: ""Pteronotus personatus" mappable:1" ; Times: 1
+	Query: ""Chrotopterus auritus" mappable:1" ; Times: 1
+	Query: ""Oligoryzomys fulvescens" mappable:1" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Atelidae" ; Times: 2
+	Query: ""Lasiurus ega" mappable:1" ; Times: 1
+	Query: ""Diphylla ecaudata" mappable:1" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: ""Desmodus rotundus" mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 28
+Total number of records retrieved from searches: 550
+Number of download events that retrieved data from the resource: 46
+Total number of records downloaded: 594
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 28
+Total number of records retrieved from searches: 550
+Number of download events that retrieved data from the resource: 46
+Total number of records downloaded: 594
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
