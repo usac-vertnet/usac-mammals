@@ -1,0 +1,105 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 858
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 42
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-20 ; Times: 15
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-05 ; Times: 8
+	Date: 2015-09-04 ; Times: 4
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 7
+	Date: 2015-09-18 ; Times: 6
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-08 ; Times: 6
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-02 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Dasyprocta punctata" ; Times: 2
+	Query: "Lasiurus ega" ; Times: 3
+	Query: "Cuniculus paca" ; Times: 5
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "Heteromys goldmani" ; Times: 2
+	Query: "Microtus guatemalensis" ; Times: 3
+	Query: "Peromyscus mayensis" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 3
+	Query: "Choeronycteris mexicana" ; Times: 3
+	Query: "Oryzomys alfaroi" ; Times: 1
+	Query: "type:specimen genus:ototylomys country:&#34;guatemala&#34;" ; Times: 2
+	Query: "Alouatta pigra" ; Times: 5
+	Query: "Diphylla ecaudata" ; Times: 3
+	Query: "Cryptotis merriami" ; Times: 1
+	Query: "heteromys goldmani" ; Times: 10
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Sorex veraepacis" ; Times: 1
+	Query: "Habromys lophurus" ; Times: 2
+	Query: "Lasiurus intermedius" ; Times: 3
+	Query: "Reithrodontomys microdon" ; Times: 1
+	Query: "Myotis elegans" ; Times: 1
+	Query: "Heteromys nelsoni" ; Times: 2
+	Query: "Cryptotis goodwini" ; Times: 1
+	Query: "Peromyscus guatemalensis" ; Times: 1
+	Query: "Peromyscus gymnotis " ; Times: 1
+	Query: "Orthogeomys grandis" ; Times: 1
+	Query: "Peromyscus zarhynchus" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "Reithrodontomys gracilis" ; Times: 1
+	Query: "Oryzomys melanotis" ; Times: 1
+	Query: "heteromys nelsoni" ; Times: 3
+	Query: "alouatta pigra" ; Times: 1
+	Query: "genus:otonyctomys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1045 download events in this period)
+Total number of records downloaded: 4934
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 3
+	Country: Hungary ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-16 ; Times: 3
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 3
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "class:Mammalia Nyctinomops laticaudatus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+
+
+End of report.
