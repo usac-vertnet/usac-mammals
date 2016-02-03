@@ -1,0 +1,81 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 307
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Guatemala ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-15 ; Times: 2
+	Date: 2015-11-10 ; Times: 5
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pteronotus" ; Times: 1
+	Query: "institutioncode:USAC" ; Times: 1
+	Query: "GUATEMALA LOS AMATES" ; Times: 1
+	Query: "bauerus dubiaquercus" ; Times: 3
+	Query: "sorex saussurei" ; Times: 1
+	Query: "cryptotis merriami" ; Times: 1
+	Query: "Reithrodontomys microdon" ; Times: 2
+	Query: "Guatemala Morales" ; Times: 2
+	Query: "cryptotis griseoventris" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 751 download events in this period)
+Total number of records downloaded: 165
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Guatemala ; Times: 3
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-03 ; Times: 14
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-15 ; Times: 4
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-17 ; Times: 4
+	Date: 2015-11-05 ; Times: 2
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 2
+	Date: 2015-11-07 ; Times: 4
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "GUATEMALA LOS AMATES" ; Times: 2
+	Query: "cryptotis parva" ; Times: 1
+	Query: "class:mammalia stateprovince:California" ; Times: 37
+	Query: "cryptotis merriami" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "cryptotis goodwini" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "cryptotis griseoventris" ; Times: 1
+	Query: "Guatemala Morales" ; Times: 1
+
+
+End of report.
