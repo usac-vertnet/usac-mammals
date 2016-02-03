@@ -1,0 +1,87 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 89
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-30 ; Times: 2
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-16 ; Times: 24
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "nasua narica" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Habromys lophurus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 2
+	Query: "heteromys nelsoni" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "alouatta pigra" ; Times: 25
+	Query: "base de datos de mamiferos" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 889 download events in this period)
+Total number of records downloaded: 405
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-23 ; Times: 4
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-24 ; Times: 6
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-13 ; Times: 2
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis" ; Times: 1
+	Query: "specificepithet:mexicana genus:Choeronycteris" ; Times: 1
+	Query: "specificepithet:ega genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:californicus genus:Myotis" ; Times: 2
+	Query: "specificepithet:velifer genus:Myotis" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+	Query: "carollia" ; Times: 1
+	Query: "Nyctomys" ; Times: 2
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:latimanus genus:Scapanus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:curasoae genus:Leptonycteris" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+
+
+End of report.
