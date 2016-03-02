@@ -1,0 +1,62 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 159
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-08 ; Times: 4
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:nyctomys" ; Times: 3
+	Query: "P-3992" ; Times: 1
+	Query: "coati" ; Times: 1
+	Query: "phylloderma" ; Times: 4
+	Query: "Heteromys nelsoni" ; Times: 1
+	Query: "Mamiferos" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 512 download events in this period)
+Total number of records downloaded: 120
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-12 ; Times: 3
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ototylomys" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "Heteromys nelsoni" ; Times: 1
+	Query: "phylloderma" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+
+
+End of report.
