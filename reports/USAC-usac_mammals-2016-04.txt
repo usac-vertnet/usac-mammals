@@ -1,0 +1,67 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 239
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctomys" ; Times: 1
+	Query: "sibinal" ; Times: 2
+	Query: "21952" ; Times: 1
+	Query: "mamiferos texas" ; Times: 1
+	Query: "promops centralis" ; Times: 2
+	Query: "darling 1977" ; Times: 1
+	Query: "mamiferos" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1312 download events in this period)
+Total number of records downloaded: 125
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-23 ; Times: 6
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals texas" ; Times: 1
+	Query: "Nyctomys" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+
+
+End of report.
