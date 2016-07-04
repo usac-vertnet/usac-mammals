@@ -1,0 +1,80 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 62
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-14 ; Times: 12
+	Date: 2016-06-13 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Enchisthenes hartii" ; Times: 1
+	Query: "pinula" ; Times: 1
+	Query: "182 oryzomys" ; Times: 1
+	Query: "USAC 975" ; Times: 2
+	Query: "USAC 976" ; Times: 2
+	Query: "usac 977" ; Times: 1
+	Query: "usac 978" ; Times: 1
+	Query: "USAC 977" ; Times: 2
+	Query: "usac 976" ; Times: 1
+	Query: "usac 760" ; Times: 1
+	Query: "USAC 760" ; Times: 2
+	Query: "oryzomys couesi guatemala" ; Times: 4
+	Query: "mammals (delicias)" ; Times: 2
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "diclidurus albus" ; Times: 4
+	Query: "usac 975" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1052 download events in this period)
+Total number of records downloaded: 399
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 4
+	Date: 2016-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+
+
+End of report.
