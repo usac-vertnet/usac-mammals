@@ -1,0 +1,83 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 59
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Guatemala ; Times: 4
+	Country: Colombia ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-12 ; Times: 3
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-26 ; Times: 8
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "Conepatus semistriatus" ; Times: 2
+	Query: "mammals and los amates and guatemala" ; Times: 2
+	Query: "mammalia and izabal and guatemala and los amates" ; Times: 1
+	Query: "Myotis cobanensis" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Enchisthenes hartii" ; Times: 2
+	Query: "specificepithet:hartii genus:Enchisthenes" ; Times: 2
+	Query: "Alouatta pigra guatemala" ; Times: 1
+	Query: "mammalia and los amates and guatemala" ; Times: 1
+	Query: "Cryptotis goodwini" ; Times: 1
+	Query: "Ateles geoffroyi guatemala" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 924 download events in this period)
+Total number of records downloaded: 645
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 2
+	Country: Guatemala ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 3
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-26 ; Times: 3
+	Date: 2016-08-22 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 2
+	Query: "mammals and los amates and guatemala" ; Times: 1
+	Query: "Alouatta pigra guatemala" ; Times: 1
+	Query: "Peromyscus zarhynchus" ; Times: 1
+	Query: "mammalia los amates" ; Times: 1
+	Query: "genus:Myotis hasmass:1" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "vntype:specimen genus:Microtus class:Mammalia basisofrecord:PreservedSpecimen hassex:1 hasmass:1 haslength:1 mappable:1" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+	Query: "Peromyscus guatemalensis" ; Times: 3
+	Query: "Ateles geoffroyi guatemala" ; Times: 1
+	Query: "Cryptotis griseoventris" ; Times: 1
+
+
+End of report.
