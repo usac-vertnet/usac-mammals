@@ -1,0 +1,59 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 267
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Guatemala ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-10 ; Times: 4
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Guatemala City" ; Times: 3
+	Query: "Ateles geoffroyi 1" ; Times: 1
+	Query: "Hylonycteris underwoodi 1" ; Times: 1
+	Query: "Glossophaga soricina 1" ; Times: 1
+	Query: "phylloderma" ; Times: 2
+	Query: "Choeronycteris mexicana 1" ; Times: 1
+	Query: "Glossophaga leachii 1" ; Times: 1
+	Query: "diclidurus albus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 811 download events in this period)
+Total number of records downloaded: 377
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "glossophaga soricina" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Natalus" ; Times: 1
+	Query: "artibeus jamaicensis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+
+
+End of report.
