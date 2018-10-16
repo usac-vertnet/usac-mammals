@@ -1,0 +1,104 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 51
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cryptotis griseoventris " ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1892 download events in this period)
+Total number of records downloaded: 10126
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-22 ; Times: 4
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-01 ; Times: 32
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phyllostomus discolor" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "class:Mammalia institutioncode:USAC" ; Times: 2
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "specificepithet:ludovici genus:Sturnira" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Pteronotus personatus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Sturnira lilium" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Liomys salvini" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Peromyscus aztecus" ; Times: 1
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Leptonycteris curasoae" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "Reithrodontomys sumichrasti" ; Times: 1
+
+
+End of report.
