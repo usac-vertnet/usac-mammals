@@ -1,0 +1,176 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 138
+Number of records retrieved in searches: 2656
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 136
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-02 ; Times: 5
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-23 ; Times: 77
+	Date: 2018-04-21 ; Times: 42
+	Date: 2018-04-24 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Reithrodontomys specificepithet:fulvescens mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Dasyprocta specificepithet:punctata mappable:1" ; Times: 1
+	Query: "Liomys pictus mappable:1 hasmass:1" ; Times: 1
+	Query: "Orthogeomys grandis mappable:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:guatemalensis mappable:1" ; Times: 1
+	Query: "Ototylomys phyllotis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:grandis mappable:1" ; Times: 1
+	Query: "genus:Mazama specificepithet:pandora mappable:1" ; Times: 2
+	Query: "genus:Cryptotis specificepithet:merriami mappable:1" ; Times: 1
+	Query: "Reithrodontomys sumichrasti mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Oryzomys specificepithet:couesi mappable:1 hasmass:1" ; Times: 1
+	Query: "Otonyctomys hatti mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:guatemalensis mappable:1 hasmass:1" ; Times: 1
+	Query: "Glossophaga leachii mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:grandis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Cuniculus specificepithet:paca mappable:1" ; Times: 1
+	Query: "Sorex veraepacis mappable:1 hasmass:1" ; Times: 1
+	Query: "Oryzomys couesi mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:gracilis mappable:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:mexicanus mappable:1 hasmass:1" ; Times: 1
+	Query: "Tylomys nudicaudus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Heteromys specificepithet:nelsoni mappable:1" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:microdon mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;guatemala&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Heteromys desmarestianus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:saussurei mappable:1 hasmass:1" ; Times: 2
+	Query: "Hylonycteris underwoodi hasmass:1 mappable:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:gracilis mappable:1 hasmass:1" ; Times: 1
+	Query: "Ateles geoffroyi mappable:1" ; Times: 1
+	Query: "Sorex veraepacis mappable:1" ; Times: 1
+	Query: "Mormoops megalophylla mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:aztecus mappable:1 hasmass:1" ; Times: 1
+	Query: "Philander opossum hasmass:1" ; Times: 1
+	Query: "genus:Nasua specificepithet:narica mappable:1" ; Times: 1
+	Query: "genus:Didelphis specificepithet:virginiana mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:mayensis mappable:1" ; Times: 1
+	Query: "genus:Conepatus specificepithet:semistriatus mappable:1" ; Times: 1
+	Query: "Carollia subrufa hasmass:1 mappable:1" ; Times: 1
+	Query: "Marmosa mexicana mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:levipes mappable:1 hasmass:1" ; Times: 1
+	Query: "Marmosa mexicana hasmass:1" ; Times: 1
+	Query: "Peromyscus gymnotis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Ateles specificepithet:geoffroyi mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:mayensis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Tylomys specificepithet:nudicaudus mappable:1" ; Times: 2
+	Query: "Nyctomys sumichrasti mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:veraepacis mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:yucatanicus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Alouatta specificepithet:pigra mappable:1" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus mappable:1" ; Times: 1
+	Query: "genus:Habromys specificepithet:lophurus mappable:1 hasmass:1" ; Times: 2
+	Query: "Choeronycteris mexicana mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Cryptotis specificepithet:goodwini mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:mexicanus mappable:1 hasmass:1" ; Times: 1
+	Query: "Rhogeessa tumida mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Didelphis specificepithet:marsupialis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Otonyctomys specificepithet:hatti mappable:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:guatemalensis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:guatemalensis mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:gymnotis mappable:1" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Habromys lophurus mappable:1" ; Times: 1
+	Query: "genus:Marmosa specificepithet:mexicana mappable:1" ; Times: 1
+	Query: "genus:Tayassu specificepithet:pecari mappable:1" ; Times: 2
+	Query: "genus:Cryptotis specificepithet:griseoventris mappable:1" ; Times: 1
+	Query: "Cryptotis merriami mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Habromys specificepithet:lophurus mappable:1" ; Times: 2
+	Query: "genus:Tylomys specificepithet:nudicaudus mappable:1 hasmass:1" ; Times: 2
+	Query: "Pteronotus davyi mappable:1 hasmass:1" ; Times: 1
+	Query: "Microtus guatemalensis mappable:1" ; Times: 1
+	Query: "Peromyscus yucatanicus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Cryptotis specificepithet:parva mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Ototylomys specificepithet:phyllotis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:tenuirostris mappable:1" ; Times: 1
+	Query: "Artibeus phaeotis mappable:1 hasmass:1" ; Times: 1
+	Query: "Nasua narica mappable:1 hasmass:1" ; Times: 1
+	Query: "Cryptotis goodwini mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:tenuirostris mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:zarhynchus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:zarhynchus mappable:1" ; Times: 1
+	Query: "Scotinomys teguina mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Heteromys specificepithet:gaumeri mappable:1 hasmass:1" ; Times: 2
+	Query: "Habromys lophurus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:mexicana mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Mazama specificepithet:temama mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:veraepacis mappable:1" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:microdon mappable:1" ; Times: 1
+	Query: "genus:Marmosa specificepithet:mexicana mappable:1 hasmass:1" ; Times: 1
+	Query: "Liomys salvini mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Orthogeomys specificepithet:grandis mappable:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:sumichrasti mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Philander specificepithet:opossum mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Nyctomys specificepithet:sumichrasti mappable:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:frenata mappable:1 hasmass:1" ; Times: 1
+	Query: "Philander opossum mappable:1 hasmass:1" ; Times: 1
+	Query: "Centurio senex mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:saussurei mappable:1" ; Times: 2
+	Query: "genus:Heteromys specificepithet:desmarestianus mappable:1 hasmass:1" ; Times: 2
+	Query: "Myotis elegans mappable:1 hasmass:1" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 5
+	Query: "genus:Cryptotis specificepithet:merriami mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Oligoryzomys specificepithet:fulvescens mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Cryptotis specificepithet:goodwini mappable:1 hasmass:1" ; Times: 1
+	Query: "Peromyscus aztecus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Nyctomys specificepithet:sumichrasti mappable:1 hasmass:1" ; Times: 1
+	Query: "Reithrodontomys gracilis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Nasua specificepithet:narica mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Heteromys specificepithet:nelsoni mappable:1 hasmass:1" ; Times: 2
+	Query: "Sorex saussurei mappable:1 hasmass:1" ; Times: 1
+	Query: "Lasiurus intermedius mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Mazama specificepithet:temama mappable:1" ; Times: 2
+	Query: "Balantiopteryx plicata mappable:1 hasmass:1" ; Times: 1
+	Query: "Carollia subrufa hasmass:1" ; Times: 1
+	Query: "genus:Scotinomys specificepithet:teguina mappable:1 hasmass:1" ; Times: 2
+	Query: "rhabdops" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:gymnotis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Cryptotis specificepithet:griseoventris mappable:1 hasmass:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1359 download events in this period)
+Total number of records downloaded: 423
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Poland ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;guatemala&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "Heteromyidae hasmass:1" ; Times: 1
+	Query: "Artibeus intermedius" ; Times: 1
+
+
+End of report.
