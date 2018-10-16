@@ -1,0 +1,165 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 268
+Number of records retrieved in searches: 3275
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 224
+	Country: United Kingdom ; Times: 38
+	Country: Argentina ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 64
+	Date: 2018-03-02 ; Times: 9
+	Date: 2018-03-01 ; Times: 4
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-03 ; Times: 26
+	Date: 2018-03-05 ; Times: 7
+	Date: 2018-03-28 ; Times: 4
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-27 ; Times: 52
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-25 ; Times: 3
+	Date: 2018-03-22 ; Times: 7
+	Date: 2018-03-26 ; Times: 50
+	Date: 2018-03-20 ; Times: 6
+	Date: 2018-03-21 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nudicaudus genus:Tylomys" ; Times: 1
+	Query: "specificepithet:yucatanicus genus:Peromyscus" ; Times: 1
+	Query: "genus:Hylonycteris specificepithet:underwoodi" ; Times: 5
+	Query: "genus:Balantiopteryx specificepithet:io" ; Times: 2
+	Query: "specificepithet:narica genus:Nasua" ; Times: 1
+	Query: "genus:Leptonycteris specificepithet:curasoae" ; Times: 5
+	Query: "specificepithet:lophurus genus:Habromys" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Nyctomys" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Ototylomys" ; Times: 1
+	Query: "genus:Cuniculus specificepithet:paca" ; Times: 5
+	Query: "tylomys nudicaudus" ; Times: 1
+	Query: "genus:Centurio specificepithet:senex" ; Times: 5
+	Query: "specificepithet:grandis genus:Orthogeomys" ; Times: 1
+	Query: "genus:microtus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 3
+	Query: "genus:Vampyressa specificepithet:pusilla" ; Times: 5
+	Query: "genus:Nyctomys specificepithet:sumichrasti" ; Times: 5
+	Query: "genus:Thyroptera specificepithet:tricolor" ; Times: 5
+	Query: "specificepithet:teguina genus:Scotinomys" ; Times: 1
+	Query: "genus:Myotis specificepithet:elegans" ; Times: 5
+	Query: "genus:Diphylla specificepithet:ecaudata" ; Times: 5
+	Query: "genus:Rhogeessa specificepithet:tumida" ; Times: 2
+	Query: "genus:Heteromys specificepithet:desmarestianus" ; Times: 2
+	Query: "specificepithet:intermedius genus:Lasiurus mappable:1" ; Times: 2
+	Query: "specificepithet:pecari genus:Tayassu" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos" ; Times: 1
+	Query: "genus:Artibeus specificepithet:intermedius" ; Times: 5
+	Query: "genus:Lichonycteris specificepithet:obscura" ; Times: 5
+	Query: "genus:Pteronotus specificepithet:davyi" ; Times: 2
+	Query: "mazama temama" ; Times: 2
+	Query: "genus:Micronycteris specificepithet:schmidtorum" ; Times: 5
+	Query: "specificepithet:fulvescens genus:Oligoryzomys" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 5
+	Query: "specificepithet:grandis genus:Peromyscus" ; Times: 1
+	Query: "genus:Platyrrhinus specificepithet:helleri" ; Times: 2
+	Query: "genus:Molossus specificepithet:sinaloae" ; Times: 2
+	Query: "genus:Noctilio specificepithet:leporinus" ; Times: 2
+	Query: "specificepithet:gaumeri genus:Heteromys" ; Times: 1
+	Query: "specificepithet:intermedius genus:lasiurus mappable:1" ; Times: 4
+	Query: "genus:Lonchorhina specificepithet:aurita" ; Times: 5
+	Query: "genus:Vampyrodes specificepithet:caraccioli" ; Times: 5
+	Query: "genus:Eumops specificepithet:glaucinus" ; Times: 5
+	Query: "genus:Tonatia specificepithet:saurophila" ; Times: 5
+	Query: "specificepithet:nelsoni genus:Heteromys" ; Times: 1
+	Query: "specificepithet:veraepacis genus:Sorex" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:brasiliensis" ; Times: 6
+	Query: "genus:Marmosa specificepithet:mexicana" ; Times: 5
+	Query: "genus:Choeronycteris specificepithet:mexicana" ; Times: 2
+	Query: "specificepithet:hatti genus:Otonyctomys" ; Times: 1
+	Query: "specificepithet:salvini genus:Liomys" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:intermedius" ; Times: 5
+	Query: "specificepithet:saussurei genus:Sorex" ; Times: 1
+	Query: "genus:Ototylomys specificepithet:phyllotis" ; Times: 2
+	Query: "genus:Micronycteris specificepithet:microtis" ; Times: 5
+	Query: "specificepithet:punctata genus:Dasyprocta" ; Times: 1
+	Query: "genus:Chiroderma specificepithet:villosum" ; Times: 2
+	Query: "specificepithet:goodwini genus:Cryptotis" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "genus:scotinomys haslength:1" ; Times: 5
+	Query: "genus:Potos specificepithet:flavus" ; Times: 6
+	Query: "genus:Glossophaga specificepithet:leachii" ; Times: 2
+	Query: "specificepithet:microdon genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:desmarestianus genus:Heteromys" ; Times: 1
+	Query: "specificepithet:opossum genus:Philander" ; Times: 1
+	Query: "genus:Pteronotus specificepithet:gymnonotus" ; Times: 5
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 8
+	Query: "genus:Nasua specificepithet:narica" ; Times: 6
+	Query: "genus:Glossophaga specificepithet:commissarisi" ; Times: 2
+	Query: "genus:Philander specificepithet:opossum" ; Times: 2
+	Query: "genus:Phylloderma specificepithet:stenops" ; Times: 5
+	Query: "specificepithet:mexicanus genus:Reithrodontomys" ; Times: 1
+	Query: "genus:Diclidurus specificepithet:albus" ; Times: 5
+	Query: "genus:Chiroderma specificepithet:salvini" ; Times: 5
+	Query: "specificepithet:gracilis genus:Reithrodontomys" ; Times: 1
+	Query: "genus:Didelphis specificepithet:marsupialis" ; Times: 2
+	Query: "specificepithet:zarhynchus genus:Peromyscus" ; Times: 1
+	Query: "genus:Mimon specificepithet:crenulatum" ; Times: 5
+	Query: "Bauerus" ; Times: 4
+	Query: "genus:Eptesicus specificepithet:furinalis" ; Times: 3
+	Query: "specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "specificepithet:aztecus genus:Peromyscus" ; Times: 1
+	Query: "genus:Choeroniscus specificepithet:godmani" ; Times: 5
+	Query: "specificepithet:gymnotis genus:Peromyscus" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:laticaudatus" ; Times: 2
+	Query: "genus:Promops specificepithet:centralis" ; Times: 5
+	Query: "specificepithet:guatemalensis genus:Microtus" ; Times: 1
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 2
+	Query: "genus:Chrotopterus specificepithet:auritus" ; Times: 5
+	Query: "specificepithet:hispidus genus:Orthogeomys" ; Times: 1
+	Query: "genus:Trachops specificepithet:cirrhosus" ; Times: 2
+	Query: "specificepithet:semistriatus genus:Conepatus" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 2
+	Query: "specificepithet:guatemalensis genus:Peromyscus" ; Times: 1
+	Query: "genus:Carollia specificepithet:subrufa" ; Times: 2
+	Query: "specificepithet:tenuirostris genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis" ; Times: 1
+	Query: "specificepithet:didactylus genus:Cyclopes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1284 download events in this period)
+Total number of records downloaded: 4434
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Poland ; Times: 4
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-27 ; Times: 3
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+	Query: "cricetidae hasmass:1" ; Times: 1
+	Query: "talpidae hasmass:1" ; Times: 1
+	Query: "order:Cingulata preparations:skull" ; Times: 1
+	Query: "rodentia hasmass:1" ; Times: 2
+	Query: "vampyressa pusilla" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "Molossus molossus vntype:specimen lengthtype:total length" ; Times: 1
+
+
+End of report.
