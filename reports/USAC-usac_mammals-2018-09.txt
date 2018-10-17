@@ -1,0 +1,66 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 403
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 2
+	Country: Guatemala ; Times: 6
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-26 ; Times: 4
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-23 ; Times: 4
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nelsoni genus:Heteromys" ; Times: 1
+	Query: "county:&#34;guatemala&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Microtus guatemalensis" ; Times: 2
+	Query: "Artibeus aztecus" ; Times: 3
+	Query: "genus:Liomys specificepithet:salvini " ; Times: 1
+	Query: "gbifdatasetid:fee15ebc-27ce-4aff-b912-2657bbd493d2" ; Times: 1
+	Query: "specificepithet:elegans genus:myotis AND (NOT TTU)" ; Times: 1
+	Query: "artibeus watsoni" ; Times: 1
+	Query: "county:&#34;guatemala&#34;" ; Times: 2
+	Query: "micronycteris schmidtorum" ; Times: 2
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "specificepithet:elegans genus:myotis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 846 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "Microtus guatemalensis" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+
+
+End of report.
