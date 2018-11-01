@@ -1,0 +1,96 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 843
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 14
+	Country: El Salvador ; Times: 1
+	Country: United States ; Times: 10
+	Country: Guatemala ; Times: 7
+	Country: Colombia ; Times: 5
+	Country: Ecuador ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-23 ; Times: 8
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 6
+	Date: 2018-10-25 ; Times: 8
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-08 ; Times: 6
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-30 ; Times: 9
+	Date: 2018-10-10 ; Times: 5
+	Date: 2018-10-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nudicaudus genus:Tylomys" ; Times: 1
+	Query: "stateprovince:&#34;Chimaltenango&#34; institutioncode:USAC" ; Times: 2
+	Query: "phylloderma stenops" ; Times: 1
+	Query: "Eptesicus andinus" ; Times: 1
+	Query: "alouatta pigra guatemala" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 3
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Tonatia saurophila" ; Times: 2
+	Query: "specificepithet:guatemalensis institutioncode:USAC" ; Times: 2
+	Query: "eptesicus andinus" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Nyctomys" ; Times: 1
+	Query: "specificepithet:microdon genus:Reithrodontomys" ; Times: 1
+	Query: "peromyscus gymnotis guatemala" ; Times: 3
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "specificepithet:grandis genus:Orthogeomys" ; Times: 1
+	Query: "Lichonycteris obscura" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 3
+	Query: "class:Mammalia mazama temama" ; Times: 2
+	Query: "Micronycteris microtis" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 5
+	Query: "mazama temama" ; Times: 7
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:centralis genus:Promops family:Molossidae" ; Times: 1
+	Query: "Vampyrum Spectrum" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 2
+	Query: "alouatta pigra" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1300 download events in this period)
+Total number of records downloaded: 1930
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "Diphylla" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+
+
+End of report.
