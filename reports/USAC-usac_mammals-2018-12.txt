@@ -1,0 +1,120 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 147
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 4
+	Country: Ecuador ; Times: 18
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-08 ; Times: 18
+	Date: 2018-12-09 ; Times: 8
+	Date: 2018-12-14 ; Times: 2
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cryptotis hastissue:1" ; Times: 2
+	Query: "lophostoma evotis" ; Times: 1
+	Query: "Micronycteris microtis" ; Times: 1
+	Query: "Didelphis marsupialis mappable:1" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "mazama pandora" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 18
+	Query: "Micronycteris schmidtorum" ; Times: 1
+	Query: "tayassu pecari mappable:1" ; Times: 1
+	Query: "Cryptotis merriami" ; Times: 1
+	Query: "Myotis elegans" ; Times: 2
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "tayassu tajacu mappable:1" ; Times: 1
+	Query: "Lampronycteris brachyotis" ; Times: 1
+	Query: "choeronycteris vntype:specimen country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 809 download events in this period)
+Total number of records downloaded: 1188
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: India ; Times: 1
+	Country: Ecuador ; Times: 6
+	Country: Mexico ; Times: 48
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-22 ; Times: 4
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-09 ; Times: 30
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-10 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "ototylomys phyllotis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Heteromys desmarestianus" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "rhynchonycteris naso" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "oryzomys melanotis" ; Times: 1
+	Query: "peropteryx macrotis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "nyctinomops laticaudatus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "pteronotus davyi" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "Molossus rufus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "trachops cirrhosus" ; Times: 1
+	Query: "saccopteryx bilineata" ; Times: 1
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "Micronycteris microtis" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "oligoryzomys fulvescens" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "eumops glaucinus" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "Heteromys gaumeri" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Artibeus phaeotis" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Myotis nigricans" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+
+
+End of report.
