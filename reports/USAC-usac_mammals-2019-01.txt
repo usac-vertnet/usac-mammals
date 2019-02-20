@@ -1,0 +1,67 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 211
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-10 ; Times: 3
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Reserva forestal" ; Times: 3
+	Query: "abies" ; Times: 1
+	Query: "specificepithet:pandora genus:Mazama" ; Times: 1
+	Query: "specificepithet:tenuirostris genus:Reithrodontomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:temama genus:Mazama" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 962 download events in this period)
+Total number of records downloaded: 210
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 2
+	Country: Ecuador ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-30 ; Times: 2
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Mimon" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "vntype:specimen genus:Choeronycteris family:Phyllostomidae order:Chiroptera class:Mammalia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+
+
+End of report.
