@@ -1,0 +1,63 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 60
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Philippines ; Times: 3
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lophostoma order:Chiroptera class:Mammalia institutioncode:USAC" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Rhabdops mappable:1" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:USAC" ; Times: 1
+	Query: "Rhabdops" ; Times: 3
+	Query: "eptesicus brasiliensis" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1227 download events in this period)
+Total number of records downloaded: 224
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela institutioncode:USAC" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Heteromys" ; Times: 1
+
+
+End of report.
