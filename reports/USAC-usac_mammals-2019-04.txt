@@ -1,0 +1,99 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 722
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 68
+	Country: Costa Rica ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-02 ; Times: 9
+	Date: 2019-04-04 ; Times: 21
+	Date: 2019-04-23 ; Times: 23
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-24 ; Times: 23
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lichonycteris obscura mappable:1" ; Times: 3
+	Query: "Potos flavus mappable:1" ; Times: 3
+	Query: "Pteronotus gymnonotus mappable:1" ; Times: 3
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 3
+	Query: "Lasiurus ega mappable:1" ; Times: 2
+	Query: "Cuniculus paca mappable:1" ; Times: 4
+	Query: "Tayassu pecari mappable:1" ; Times: 3
+	Query: "Diphylla ecaudata" ; Times: 5
+	Query: "Trachops cirrhosus mappable:1" ; Times: 2
+	Query: "Eumops glaucinus mappable:1" ; Times: 3
+	Query: "Vampyressa pusilla mappable:1" ; Times: 3
+	Query: "Trinycteris nicefori mappable:1" ; Times: 3
+	Query: "Eptesicus furinalis mappable:1" ; Times: 3
+	Query: "Mimon bennettii mappable:1" ; Times: 3
+	Query: "Diphylla ecaudata mappable:1" ; Times: 3
+	Query: "Thyroptera" ; Times: 1
+	Query: "Vampyrodes caraccioli mappable:1" ; Times: 3
+	Query: "Tonatia saurophila mappable:1" ; Times: 3
+	Query: "Eptesicus brasiliensis mappable:1" ; Times: 3
+	Query: "Mazama americana" ; Times: 1
+	Query: "Conepatus semistriatus mappable:1" ; Times: 3
+	Query: "Micronycteris schmidtorum mappable:1" ; Times: 3
+	Query: "Chrotopterus auritus mappable:1" ; Times: 3
+	Query: "Micronycteris microtis mappable:1" ; Times: 3
+	Query: "Lonchorhina aurita mappable:1" ; Times: 3
+	Query: "Lampronycteris brachyotis mappable:1" ; Times: 3
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "genus:Conepatus institutioncode:USAC" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 2
+	Query: "estados unidos" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1263 download events in this period)
+Total number of records downloaded: 187
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-02 ; Times: 6
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "peromyscus guatemalensis" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+
+
+End of report.
