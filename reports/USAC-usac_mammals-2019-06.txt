@@ -1,0 +1,138 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 1428
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 80
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-11 ; Times: 65
+	Date: 2019-06-17 ; Times: 1
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-10 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Vampyrum family:Phyllostomidae" ; Times: 1
+	Query: "genus:Alouatta specificepithet:pigra" ; Times: 1
+	Query: "genus:Didelphis specificepithet:marsupialis" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:guatemalensis" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:intermedius" ; Times: 1
+	Query: "genus:Molossus specificepithet:sinaloae" ; Times: 1
+	Query: "genus:Ototylomys specificepithet:phyllotis" ; Times: 2
+	Query: "genus:Lichonycteris specificepithet:obscura" ; Times: 1
+	Query: "genus:Enchisthenes specificepithet:hartii" ; Times: 1
+	Query: "genus:Micronycteris specificepithet:microtis" ; Times: 1
+	Query: "genus:Mimon specificepithet:crenulatum" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:gymnotis" ; Times: 1
+	Query: "genus:Heteromys specificepithet:desmarestianus" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:furinalis" ; Times: 2
+	Query: "genus:Balantiopteryx specificepithet:io" ; Times: 2
+	Query: "genus:Philander specificepithet:opossum" ; Times: 2
+	Query: "genus:Micronycteris specificepithet:schmidtorum" ; Times: 1
+	Query: "Tonatia saurophila" ; Times: 2
+	Query: "genus:Phylloderma specificepithet:stenops" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus" ; Times: 2
+	Query: "genus:Choeroniscus specificepithet:godmani" ; Times: 1
+	Query: "Lophostoma evotis" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 1
+	Query: "genus:Glossophaga specificepithet:leachii" ; Times: 1
+	Query: "genus:Promops specificepithet:centralis" ; Times: 1
+	Query: "genus:Liomys specificepithet:salvini " ; Times: 1
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 1
+	Query: "genus:Platyrrhinus specificepithet:helleri" ; Times: 1
+	Query: "genus:Choeronycteris specificepithet:mexicana" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:aztecus" ; Times: 1
+	Query: "genus:Leptonycteris specificepithet:curasoae" ; Times: 1
+	Query: "genus:Cuniculus specificepithet:paca" ; Times: 2
+	Query: "genus:Chrotopterus specificepithet:auritus" ; Times: 1
+	Query: "genus:Centurio specificepithet:senex" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:grandis" ; Times: 1
+	Query: "genus:Pteronotus specificepithet:gymnonotus" ; Times: 1
+	Query: "genus:Cyclopes specificepithet:didactylus" ; Times: 1
+	Query: "genus:Chiroderma specificepithet:villosum" ; Times: 1
+	Query: "genus:Lonchorhina specificepithet:aurita" ; Times: 1
+	Query: "genus:Artibeus specificepithet:intermedius" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 2
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 2
+	Query: "vntype:specimen specificepithet:saussurei genus:sorex" ; Times: 1
+	Query: "genus:Nasua specificepithet:narica" ; Times: 2
+	Query: "Mimon bennettii" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "genus:Carollia specificepithet:subrufa" ; Times: 1
+	Query: "genus:Nyctomys specificepithet:sumichrasti" ; Times: 2
+	Query: "genus:Glossophaga specificepithet:commissarisi" ; Times: 1
+	Query: "genus:Pteronotus specificepithet:davyi" ; Times: 1
+	Query: "genus:Vampyressa specificepithet:pusilla" ; Times: 1
+	Query: "genus:Dasyprocta specificepithet:punctata" ; Times: 1
+	Query: "genus:Trachops specificepithet:cirrhosus" ; Times: 1
+	Query: "genus:Vampyrodes specificepithet:caraccioli" ; Times: 1
+	Query: "genus:Eumops specificepithet:glaucinus" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:mayensis" ; Times: 1
+	Query: "genus:Thyroptera specificepithet:tricolor" ; Times: 1
+	Query: "genus:Tonatia specificepithet:saurophila" ; Times: 1
+	Query: "genus:Natalus specificepithet:stramineus" ; Times: 1
+	Query: "genus:Myotis specificepithet:elegans" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "genus:Marmosa specificepithet:mexicana" ; Times: 1
+	Query: "genus:Chiroderma specificepithet:salvini" ; Times: 1
+	Query: "genus:Diclidurus specificepithet:albus" ; Times: 1
+	Query: "genus:Diphylla specificepithet:ecaudata" ; Times: 1
+	Query: "genus:Rhogeessa specificepithet:tumida" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:yucatanicus" ; Times: 1
+	Query: "genus:Hylonycteris specificepithet:underwoodi" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:brasiliensis" ; Times: 2
+	Query: "genus:Heteromys specificepithet:nelsoni" ; Times: 1
+	Query: "genus:Oligoryzomys specificepithet:fulvescens" ; Times: 1
+	Query: "genus:Lampronycteris specificepithet:brachyotis" ; Times: 1
+	Query: "genus:Scotinomys specificepithet:teguina" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:laticaudatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1182 download events in this period)
+Total number of records downloaded: 97
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-30 ; Times: 2
+	Date: 2019-06-11 ; Times: 9
+	Date: 2019-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lophostoma evotis" ; Times: 1
+	Query: "Phyllostomus discolor" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "Mimon bennettii" ; Times: 1
+	Query: "genus:Vampyrum family:Phyllostomidae" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Tonatia saurophila" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
