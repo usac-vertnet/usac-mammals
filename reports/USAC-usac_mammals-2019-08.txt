@@ -1,0 +1,240 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 1305
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United Kingdom ; Times: 9
+	Country: Mexico ; Times: 32
+	Country: United States ; Times: 8
+	Country: Guatemala ; Times: 3
+	Country: Thailand ; Times: 111
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-22 ; Times: 20
+	Date: 2019-08-07 ; Times: 4
+	Date: 2019-08-19 ; Times: 15
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-03 ; Times: 3
+	Date: 2019-08-05 ; Times: 9
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-26 ; Times: 6
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-24 ; Times: 6
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-20 ; Times: 10
+	Date: 2019-08-21 ; Times: 97
+
+List of queries that retrieved data from the resource: 
+	Query: "Pteronotus gymnonotus haslength:1" ; Times: 2
+	Query: "Dasyprocta punctata mappable:1" ; Times: 2
+	Query: "Tonatia saurophila" ; Times: 1
+	Query: "Carollia subrufa haslength:1" ; Times: 1
+	Query: "Saccopteryx bilineata haslength:1" ; Times: 2
+	Query: "Chiroderma salvini haslength:1" ; Times: 2
+	Query: "Choeronycteris mexicana haslength:1" ; Times: 2
+	Query: "choeroniscus godmani" ; Times: 1
+	Query: "Eptesicus furinalis haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:schmidtorum genus:Micronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "hylonycteris underwoodi" ; Times: 2
+	Query: "vntype:specimen specificepithet:evotis genus:Lophostoma year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Peropteryx macrotis haslength:1" ; Times: 2
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Trachops cirrhosus haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:stenops genus:Phylloderma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "vntype:specimen specificepithet:auritus genus:Chrotopterus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Micronycteris schmidtorum haslength:1" ; Times: 2
+	Query: "Pteronotus davyi haslength:1" ; Times: 2
+	Query: "Myotis californicus haslength:1" ; Times: 2
+	Query: "Molossus rufus haslength:1" ; Times: 2
+	Query: "Mazama americana" ; Times: 1
+	Query: "Rhogeessa tumida haslength:1" ; Times: 2
+	Query: "Lophostoma evotis haslength:1" ; Times: 2
+	Query: "Micronycteris microtis haslength:1" ; Times: 2
+	Query: "Lasiurus intermedius haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:hartii genus:Enchisthenes year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Nyctinomops laticaudatus haslength:1" ; Times: 2
+	Query: "Molossus molossus haslength:1" ; Times: 2
+	Query: "Tonatia saurophila haslength:1" ; Times: 2
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "2315 mam" ; Times: 1
+	Query: "Lampronycteris brachyotis haslength:1" ; Times: 1
+	Query: "Bauerus dubiaquercus haslength:1" ; Times: 1
+	Query: "phylloderma stenops" ; Times: 1
+	Query: "Enchisthenes hartii haslength:1" ; Times: 2
+	Query: "Philander opossum mappable:1" ; Times: 2
+	Query: "Diphylla ecaudata haslength:1" ; Times: 2
+	Query: "specificepithet:parva genus:Cryptotis hasmass:1 haslength:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "genus:Liomys specificepithet:salvini " ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Myotis keaysi haslength:1" ; Times: 2
+	Query: "Diclidurus albus haslength:1" ; Times: 2
+	Query: "Anoura geoffroyi haslength:1" ; Times: 1
+	Query: "Artibeus lituratus haslength:1" ; Times: 2
+	Query: "Sturnira lilium haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:aurita genus:Lonchorhina year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "Vampyrodes caraccioli haslength:1" ; Times: 2
+	Query: "Mimon crenulatum haslength:1" ; Times: 2
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "lampronycteris brachyotis" ; Times: 2
+	Query: "Hylonycteris underwoodi haslength:1" ; Times: 2
+	Query: "Glossophaga commissarisi haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:crenulatum genus:Mimon AND (NOT longifolium) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "orthogeomys grandis guatemala" ; Times: 3
+	Query: "Platyrrhinus helleri haslength:1" ; Times: 1
+	Query: "Glossophaga leachii haslength:1" ; Times: 1
+	Query: "Balantiopteryx plicata haslength:1" ; Times: 2
+	Query: "tonatia saurophila" ; Times: 1
+	Query: "vntype:specimen specificepithet:crenulatum genus:Mimon year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Myotis cobanensis haslength:1" ; Times: 2
+	Query: "Mimon bennettii haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:spectrum genus:Vampyrum year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyotis genus:Lampronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Pteronotus parnellii haslength:1" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Myotis nigricans haslength:1" ; Times: 2
+	Query: "Vampyressa pusilla haslength:1" ; Times: 2
+	Query: "sorex saussurei" ; Times: 1
+	Query: "Lonchorhina aurita haslength:1" ; Times: 2
+	Query: "Pteronotus personatus haslength:1" ; Times: 1
+	Query: "Eptesicus brasiliensis haslength:1" ; Times: 2
+	Query: "Chiroderma villosum haslength:1" ; Times: 2
+	Query: "Chrotopterus auritus haslength:1" ; Times: 2
+	Query: "Glossophaga soricina haslength:1" ; Times: 2
+	Query: "Phylloderma stenops haslength:1" ; Times: 1
+	Query: "Natalus stramineus haslength:1" ; Times: 2
+	Query: "Choeroniscus godmani haslength:1" ; Times: 2
+	Query: "Lasiurus ega haslength:1" ; Times: 2
+	Query: "Promops centralis haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:gymnonotus genus:Pteronotus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Uroderma bilobatum haslength:1" ; Times: 2
+	Query: "Centurio senex haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:stenops genus:Phylloderma AND (NOT affinis OR minor) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Sturnira ludovici haslength:1" ; Times: 1
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "lophostoma evotis" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 3
+	Query: "Noctilio leporinus haslength:1" ; Times: 2
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "Conepatus semistriatus mappable:1" ; Times: 2
+	Query: "Myotis elegans" ; Times: 1
+	Query: "Phyllostomus discolor haslength:1" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "lichonycteris obscura" ; Times: 2
+	Query: "Leptonycteris curasoae haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:mexicana genus:Choeronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Tayassu pecari mappable:1" ; Times: 2
+	Query: "trinycteris nicefori" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "Eptesicus andinus haslength:1" ; Times: 2
+	Query: "Promops centralis" ; Times: 1
+	Query: "Trinycteris nicefori haslength:1" ; Times: 2
+	Query: "Mormoops megalophylla haslength:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1034 download events in this period)
+Total number of records downloaded: 495
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-20 ; Times: 13
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-21 ; Times: 1
+	Date: 2019-08-22 ; Times: 10
+	Date: 2019-08-23 ; Times: 11
+	Date: 2019-08-19 ; Times: 22
+	Date: 2019-08-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:cirrhosus genus:Trachops year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "phylloderma stenops" ; Times: 1
+	Query: "lonchorhina aurita" ; Times: 1
+	Query: "vntype:specimen specificepithet:spectrum genus:Vampyrum year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "lasiurus ega" ; Times: 3
+	Query: "mimon crenulatum" ; Times: 1
+	Query: "vntype:specimen specificepithet:crenulatum genus:Mimon AND (NOT longifolium) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:albiventris genus:Noctilio AND (NOT affinis OR minor) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:gymnonotus genus:Pteronotus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "choeroniscus godmani" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "vntype:specimen specificepithet:schmidtorum genus:Micronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "hylonycteris underwoodi" ; Times: 1
+	Query: "vntype:specimen specificepithet:evotis genus:Lophostoma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:myotis preparations:skull" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "vntype:specimen specificepithet:stenops genus:Phylloderma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "Glossophaga leachii" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "vntype:specimen specificepithet:auritus genus:Chrotopterus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Thyroptera AND (NOT albiventer) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "lophostoma evotis" ; Times: 1
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "artibeus phaeotis" ; Times: 1
+	Query: "chiroderma salvini" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "vntype:specimen specificepithet:aurita genus:Lonchorhina year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyotis genus:Lampronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "centurio senex" ; Times: 1
+	Query: "enchisthenes hartii" ; Times: 1
+	Query: "tonatia saurophila" ; Times: 1
+	Query: "artibeus toltecus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hartii genus:Enchisthenes year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vampyrodes caraccioli" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "lichonycteris obscura" ; Times: 1
+	Query: "carollia subrufa" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicana genus:Choeronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:naso genus:Rhynchonycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "chiroderma villosum" ; Times: 1
+	Query: "micronycteris microtis" ; Times: 1
+	Query: "artibeus watsoni" ; Times: 1
+	Query: "vntype:specimen specificepithet:myotis genus:myotis preparations:skull" ; Times: 1
+	Query: "lampronycteris brachyotis" ; Times: 2
+
+
+End of report.
