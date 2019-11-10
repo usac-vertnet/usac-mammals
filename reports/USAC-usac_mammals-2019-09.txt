@@ -1,0 +1,135 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 470
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Thailand ; Times: 63
+	Country: Honduras ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-05 ; Times: 63
+
+List of queries that retrieved data from the resource: 
+	Query: "Pteronotus gymnonotus haslength:1" ; Times: 1
+	Query: "Bauerus dubiaquercus haslength:1" ; Times: 1
+	Query: "Enchisthenes hartii haslength:1" ; Times: 1
+	Query: "Glossophaga commissarisi haslength:1" ; Times: 1
+	Query: "Chiroderma salvini haslength:1" ; Times: 1
+	Query: "Choeronycteris mexicana haslength:1" ; Times: 1
+	Query: "Phylloderma stenops haslength:1" ; Times: 1
+	Query: "Diphylla ecaudata haslength:1" ; Times: 1
+	Query: "Natalus stramineus haslength:1" ; Times: 1
+	Query: "Micronycteris microtis haslength:1" ; Times: 1
+	Query: "Noctilio leporinus haslength:1" ; Times: 1
+	Query: "Choeroniscus godmani haslength:1" ; Times: 1
+	Query: "Chrotopterus auritus haslength:1" ; Times: 1
+	Query: "Platyrrhinus helleri haslength:1" ; Times: 1
+	Query: "Carollia perspicillata haslength:1" ; Times: 1
+	Query: "Glossophaga leachii haslength:1" ; Times: 1
+	Query: "Lasiurus intermedius haslength:1" ; Times: 1
+	Query: "Balantiopteryx plicata haslength:1" ; Times: 1
+	Query: "Uroderma bilobatum haslength:1" ; Times: 1
+	Query: "Centurio senex haslength:1" ; Times: 1
+	Query: "Eptesicus furinalis haslength:1" ; Times: 1
+	Query: "Saccopteryx bilineata haslength:1" ; Times: 1
+	Query: "Eptesicus andinus haslength:1" ; Times: 1
+	Query: "Peropteryx macrotis haslength:1" ; Times: 1
+	Query: "Glossophaga soricina haslength:1" ; Times: 1
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Trachops cirrhosus haslength:1" ; Times: 1
+	Query: "Sturnira ludovici haslength:1" ; Times: 1
+	Query: "Myotis cobanensis haslength:1" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 3
+	Query: "Mimon bennettii haslength:1" ; Times: 1
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "Micronycteris schmidtorum haslength:1" ; Times: 1
+	Query: "Pteronotus davyi haslength:1" ; Times: 1
+	Query: "Myotis keaysi haslength:1" ; Times: 1
+	Query: "Anoura geoffroyi haslength:1" ; Times: 1
+	Query: "Leptonycteris curasoae haslength:1" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 1
+	Query: "Alouatta pigra mappable:1" ; Times: 1
+	Query: "Molossus rufus haslength:1" ; Times: 1
+	Query: "Diclidurus albus haslength:1" ; Times: 1
+	Query: "Pteronotus parnellii haslength:1" ; Times: 1
+	Query: "Chiroderma villosum haslength:1" ; Times: 1
+	Query: "Rhogeessa tumida haslength:1" ; Times: 1
+	Query: "Carollia subrufa haslength:1" ; Times: 1
+	Query: "Artibeus lituratus haslength:1" ; Times: 1
+	Query: "Phyllostomus discolor haslength:1" ; Times: 1
+	Query: "Sturnira lilium haslength:1" ; Times: 1
+	Query: "Myotis nigricans haslength:1" ; Times: 1
+	Query: "Trinycteris nicefori haslength:1" ; Times: 1
+	Query: "Vampyressa pusilla haslength:1" ; Times: 1
+	Query: "Nyctinomops laticaudatus haslength:1" ; Times: 1
+	Query: "Molossus molossus haslength:1" ; Times: 1
+	Query: "Vampyrodes caraccioli haslength:1" ; Times: 1
+	Query: "Tonatia saurophila haslength:1" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+	Query: "Mimon crenulatum haslength:1" ; Times: 1
+	Query: "Lophostoma evotis haslength:1" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 2
+	Query: "Lonchorhina aurita haslength:1" ; Times: 1
+	Query: "Eptesicus brasiliensis haslength:1" ; Times: 1
+	Query: "Lasiurus ega haslength:1" ; Times: 1
+	Query: "Pteronotus personatus haslength:1" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Ateles geoffroyi mappable:1" ; Times: 1
+	Query: "Promops centralis haslength:1" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Hylonycteris underwoodi haslength:1" ; Times: 1
+	Query: "Lampronycteris brachyotis haslength:1" ; Times: 1
+	Query: "Mormoops megalophylla haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1073 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-02 ; Times: 4
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "vntype:specimen order:chiroptera country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+
+
+End of report.
