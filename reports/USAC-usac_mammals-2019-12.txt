@@ -1,0 +1,48 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 5
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-27 ; Times: 5
+	Date: 2019-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis pilosatibialis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "Mushnat" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 596 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Myotis pilosatibialis" ; Times: 1
+
+
+End of report.
