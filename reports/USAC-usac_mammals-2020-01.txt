@@ -1,0 +1,96 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2183
+Number of records retrieved in searches: 2612
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2164
+	Country: United Kingdom ; Times: 13
+	Country: Mexico ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: El Salvador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 2140
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-18 ; Times: 2
+	Date: 2020-01-06 ; Times: 12
+	Date: 2020-01-28 ; Times: 8
+	Date: 2020-01-14 ; Times: 5
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-13 ; Times: 8
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:yaguarondi genus:Puma" ; Times: 1
+	Query: "mimon bennettii" ; Times: 1
+	Query: "USAC 4995" ; Times: 1
+	Query: "specificepithet:aztecus genus:Artibeus" ; Times: 2
+	Query: "distance(location,geopoint(2813266.0539046,-2055913.08604036))&lt;454470.177343282" ; Times: 2151
+	Query: "Cuniculus paca mappable:1" ; Times: 3
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Tayassu pecari mappable:1" ; Times: 2
+	Query: "mimon bennettii basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Potos flavus mappable:1" ; Times: 2
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Conepatus semistriatus mappable:1" ; Times: 3
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "lampronycteris brachyotis" ; Times: 1
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "REV order:rodentia" ; Times: 2
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Chrotopterus auritus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1584 download events in this period)
+Total number of records downloaded: 91
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-11 ; Times: 3
+	Date: 2020-01-12 ; Times: 5
+	Date: 2020-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Eptesicus fuscus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen hasmass:1" ; Times: 3
+	Query: "specificepithet:ega genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "centurio senex basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+
+
+End of report.
