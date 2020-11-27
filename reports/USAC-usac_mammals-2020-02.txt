@@ -1,0 +1,98 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 103
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-25 ; Times: 9
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-27 ; Times: 6
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "otonyctomys" ; Times: 1
+	Query: "Myotis pilosatibialis Guatemala" ; Times: 2
+	Query: "Otonyctomys Hatti" ; Times: 1
+	Query: "vntype:specimen specificepithet:narica genus:Nasua preparations:fluid" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 5
+	Query: "Myotis keaysi pilosatibialis" ; Times: 1
+	Query: "Myotis pilosatibialis" ; Times: 2
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "vntype:specimen genus:Nasua preparations:fluid" ; Times: 2
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Myotis Guatemala" ; Times: 2
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "tylomys" ; Times: 1
+	Query: "Myotis keaysi Guatemala" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Myotis keaysi Santa Ana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1023 download events in this period)
+Total number of records downloaded: 2496
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 7
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-27 ; Times: 9
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-07 ; Times: 3
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Otonyctomys Hatti" ; Times: 1
+	Query: "genus:cuniculus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "&#34;Eptesicus fuscus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "Reithrodontomys Gracilis" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+
+
+End of report.
