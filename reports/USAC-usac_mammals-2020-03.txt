@@ -1,0 +1,118 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 423
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Panama ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 67
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-20 ; Times: 18
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-18 ; Times: 40
+	Date: 2020-03-19 ; Times: 7
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tonatia saurophila" ; Times: 1
+	Query: "Eptesicus andinus" ; Times: 1
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "genus:Leptonycteris country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 2
+	Query: "Natalus stramineus" ; Times: 1
+	Query: "Lampronycteris brachyotis" ; Times: 2
+	Query: "mazama temama" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "Lophostoma evotis" ; Times: 2
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Hylonycteris underwoodi" ; Times: 1
+	Query: "&#34;Candelaria&#34;" ; Times: 1
+	Query: "Bauerus dubiaquercus" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "Micronycteris schmidtorum" ; Times: 2
+	Query: "Trinycteris nicefori" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "Enchisthenes hartii" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "Vampyrodes caraccioli" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "Lichonycteris obscura" ; Times: 2
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "Mimon bennettii" ; Times: 4
+	Query: "Myotis cobanensis" ; Times: 2
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "Micronycteris microtis" ; Times: 2
+	Query: "Myotis elegans" ; Times: 4
+	Query: "Centurio senex" ; Times: 1
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "&#34;Escobas&#34;" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "Artibeus intermedius" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 2
+	Query: "Lonchorhina aurita" ; Times: 2
+	Query: "Leptonycteris curasoae" ; Times: 2
+	Query: "Mimon crenulatum" ; Times: 2
+	Query: "Myotis pilosatibialis" ; Times: 1
+	Query: "Molossus sinaloae" ; Times: 2
+	Query: "Promops centralis" ; Times: 1
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 853 download events in this period)
+Total number of records downloaded: 350
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hispidus genus:Sigmodon hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "genus:Leptonycteris country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "specificepithet:hartii genus:Enchisthenes" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:curasoae genus:Leptonycteris" ; Times: 1
+
+
+End of report.
