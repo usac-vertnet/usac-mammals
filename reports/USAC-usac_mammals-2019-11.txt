@@ -1,0 +1,93 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 2127
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Denmark ; Times: 47
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-09 ; Times: 3
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-07 ; Times: 23
+	Date: 2019-11-16 ; Times: 4
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-10 ; Times: 2
+	Date: 2019-11-15 ; Times: 25
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus pardalis 2015" ; Times: 2
+	Query: "Dasyprocta punctata" ; Times: 6
+	Query: "Cuniculus paca" ; Times: 8
+	Query: "murcielagos" ; Times: 1
+	Query: "Microtus guatemalensis" ; Times: 1
+	Query: "Peromyscus mayensis" ; Times: 2
+	Query: "base de datos" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Otonyctomys hatti" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 2
+	Query: "Heteromys nelsoni" ; Times: 1
+	Query: "Peromyscus grandis" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Habromys lophurus" ; Times: 2
+	Query: "Heteromys gaumeri" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 5
+	Query: "Leopardus pardalis 1998" ; Times: 4
+	Query: "Nasua narica" ; Times: 4
+	Query: "chrotopterus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ototylomys phyllotis" ; Times: 1
+	Query: "Orthogeomys grandis" ; Times: 1
+	Query: "Leopardus pardalis 2013" ; Times: 4
+	Query: "Peromyscus gymnotis" ; Times: 1
+	Query: "Peromyscus zarhynchus" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 2
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "Reithrodontomys gracilis" ; Times: 1
+	Query: "Reithrodontomys tenuirostris" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "Reithrodontomys microdon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1367 download events in this period)
+Total number of records downloaded: 161
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "base de datos" ; Times: 1
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+
+
+End of report.
