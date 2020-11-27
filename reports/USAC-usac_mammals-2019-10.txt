@@ -1,0 +1,98 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 275
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Unknown ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-22 ; Times: 7
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-11 ; Times: 4
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-04 ; Times: 5
+	Date: 2019-10-14 ; Times: 7
+	Date: 2019-10-15 ; Times: 6
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "PEROMYSCUS GRANDIS" ; Times: 2
+	Query: "SP 13456" ; Times: 2
+	Query: "Mus musculus 2013" ; Times: 1
+	Query: "Leopardus pardalis 1998" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 1
+	Query: "genus:PEROMYSCUS institutioncode:USAC hastissue:1" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "Neotoma mexicana 1998" ; Times: 1
+	Query: "specificepithet:microdon genus:Reithrodontomys" ; Times: 1
+	Query: "Neotoma mexicana 2000" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Micronycteris schmidtorum" ; Times: 1
+	Query: "REITHRODONTOMYS gracilis" ; Times: 1
+	Query: "genus:PEROMYSCUS stateprovince:&#34;Izabal&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "peromyscus mayensis" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Mus musculus 1990" ; Times: 2
+	Query: "Lampronycteris brachyotis" ; Times: 1
+	Query: "Neotoma mexicana 2016" ; Times: 1
+	Query: "Neotoma mexicana 2013" ; Times: 1
+	Query: "Habromys" ; Times: 4
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Leopardus pardalis 2013" ; Times: 1
+	Query: "Leopardus pardalis 2015" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "reithrodontomys microdon" ; Times: 4
+	Query: "specificepithet:gracilis genus:Reithrodontomys year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Conepatus semistriatus preparations:skeleton" ; Times: 1
+	Query: "vampyrum spectrum basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1308 download events in this period)
+Total number of records downloaded: 219
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 5
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Peromyscus mexicanus preparations:skeleton" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "Micronycteris schmidtorum" ; Times: 1
+	Query: "Trinycteris nicefori" ; Times: 1
+	Query: "Micronycteris microtis" ; Times: 1
+	Query: "Leptonycteris" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Lampronycteris brachyotis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "vampyrum spectrum basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
