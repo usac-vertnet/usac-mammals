@@ -1,0 +1,85 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-29 ; Times: 4
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Base de datos" ; Times: 1
+	Query: "monterrico" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 8
+	Query: "genus:Oryzomys" ; Times: 1
+	Query: "Lonchorhina aurita Guatemala" ; Times: 2
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "genus:Conepatus institutioncode:USAC" ; Times: 2
+	Query: "41449" ; Times: 1
+	Query: "genus:Oligoryzomys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 940 download events in this period)
+Total number of records downloaded: 3680
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Nasua nasua" ; Times: 2
+	Query: "family:felidae" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "genus:Puma" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "fluid vntype:specimen order:Chiroptera" ; Times: 1
+	Query: "genus:Conepatus institutioncode:USAC" ; Times: 1
+	Query: "vntype:specimen order:Chiroptera preparations:FLuid basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "promops centralis" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+
+
+End of report.
