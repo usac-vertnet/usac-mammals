@@ -1,0 +1,48 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 97
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-28 ; Times: 3
+	Date: 2020-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vampyrodes caraccioli" ; Times: 1
+	Query: "mazama pandora" ; Times: 3
+	Query: "LASIURUS EGA" ; Times: 1
+	Query: "Trinycteris nicefori" ; Times: 1
+	Query: "recordedby:mccarthy (guatemala OR honduras)" ; Times: 1
+	Query: "recordedby:mccarthy (guatemala)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 756 download events in this period)
+Total number of records downloaded: 36
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:mccarthy (guatemala)" ; Times: 1
+	Query: "recordedby:mccarthy (guatemala OR honduras)" ; Times: 2
+
+
+End of report.
