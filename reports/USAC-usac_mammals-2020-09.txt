@@ -1,0 +1,79 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 889
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 21
+	Country: United States ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-13 ; Times: 17
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-03 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 4
+	Query: "scientificname:Oryzomys alfaroi" ; Times: 1
+	Query: "scientificname:Peromyscus levipes" ; Times: 1
+	Query: "scientificname:Peromyscus aztecus" ; Times: 2
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "scientificname:Reithrodontomys mexicanus" ; Times: 2
+	Query: "scientificname:Reithrodontomys sumichrasti" ; Times: 2
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "scientificname:Oligoryzomys fulvescens" ; Times: 2
+	Query: "mazama temama" ; Times: 3
+	Query: "coati" ; Times: 1
+	Query: "county:&#34;guatemala&#34;" ; Times: 1
+	Query: "alouatta pigra" ; Times: 3
+	Query: "specificepithet:gymnotis genus:Peromyscus hassex:1 haslength:1" ; Times: 1
+	Query: "Vampyressa pusilla vntype:specimen preparations:skull" ; Times: 1
+	Query: "25093" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 976 download events in this period)
+Total number of records downloaded: 126
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-18 ; Times: 2
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+
+
+End of report.
