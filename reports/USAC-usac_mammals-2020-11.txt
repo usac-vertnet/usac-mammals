@@ -1,0 +1,89 @@
+Report for Institution Code USAC, Resource usac_mammals
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 572
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Honduras ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 15
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-10 ; Times: 12
+	Date: 2020-11-01 ; Times: 3
+	Date: 2020-11-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 1
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 4
+	Query: "scientificname:Didelphis virginiana" ; Times: 2
+	Query: "scientificname:Oryzomys alfaroi" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Artibeus year &gt;= 2005 year &lt;= 2005" ; Times: 1
+	Query: "scientificname:Peromyscus levipes" ; Times: 1
+	Query: "scientificname:Cryptotis parva" ; Times: 4
+	Query: "scientificname:Peromyscus aztecus" ; Times: 2
+	Query: "scientificname:Eptesicus fuscus" ; Times: 1
+	Query: "Choeronycteris mexicana distance(location,geopoint(15.48130452826855,-87.94921875))&lt;272072" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "scientificname:Oligoryzomys fulvescens" ; Times: 2
+	Query: "scientificname:Mustela frenata" ; Times: 2
+	Query: "scientificname:Reithrodontomys mexicanus" ; Times: 2
+	Query: "scientificname:Urocyon cinereoargenteus" ; Times: 1
+	Query: "scientificname:Reithrodontomys sumichrasti" ; Times: 2
+	Query: "order:Artiodactyla hasmass:1" ; Times: 3
+	Query: "scientificname:Lasiurus borealis" ; Times: 2
+	Query: "vntype:specimen order:Artiodactyla class:Mammalia hasmass:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 842 download events in this period)
+Total number of records downloaded: 304
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 2
+	Date: 2020-11-23 ; Times: 2
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-06 ; Times: 2
+	Date: 2020-11-04 ; Times: 2
+	Date: 2020-11-05 ; Times: 2
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-01 ; Times: 1
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "philander opossum" ; Times: 2
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "class:mammalia massing &gt;= 300 lengthinmm &gt;= 250" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 1
+	Query: "cryptotis parva" ; Times: 2
+	Query: "Mus musculus" ; Times: 2
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "Potos flavus" ; Times: 1
+	Query: "vntype:specimen class:Mammalia massing &gt;= 8000 hasmass:1" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+
+
+End of report.
